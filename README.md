@@ -1,4 +1,4 @@
-(https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg?rand=1406588496)
+!logo(https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg?rand=1406588496)
 <h1 align="center">Hi 👋, I'm Chandrasree Das Gupta</h1>
 <h3 align="left">About Me:</h3>
 <p align="left"> As a computer science graduate eager to kickstart my career in software development. Excited to apply my skills in real-world projects and continuously improve my coding abilities.</p>
